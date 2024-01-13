@@ -6,6 +6,20 @@ html {
     --color-text: #393e46;/*paragraph*/
 }
 
+html[ui-theme='dark'] {
+    --background: #232931;
+    --background-panel: #393E46;
+    --color-headings: #00ADB5;
+    --color-text: #d7d7d7;
+}
+
+html[ui-theme='special'] {
+    --background: #0a2647;
+    --background-panel: #144272;
+    --color-headings: #205295;
+    --color-text: #2c74b3;
+}
+
 * {
     color: var(--color-text);
     font-family: "Poppins", sans-serif;
@@ -16,4 +30,12 @@ html {
 
 body {
     background-color: var(--background);
+}
+
+html.transition,
+ html.transition *,
+ html.transition *:before,
+ html.transition *:after {
+   transition: all 400ms !important;
+   transition-delay: 0 !important;
 }
