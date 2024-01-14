@@ -6,6 +6,7 @@ html {
     --color-text: #393e46;/*paragraph*/
     --blur-strength: 50px;
     --nt-color-text: #d7d7d7;
+    --background-image-url: url("https://live.staticflickr.com/65535/53114203313_3bd8227432_b.jpg");
 }
 
 html[ui-theme='dark'] {
@@ -32,7 +33,7 @@ html[ui-theme='special'] {
 
 body {
     background-color: var(--background);
-    background: url('https://live.staticflickr.com/65535/53114203313_3bd8227432_b.jpg');
+    background: var(--background-image-url);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -91,6 +92,22 @@ body {
     color: var(--nt-color-text);
     cursor: pointer;
     display: none;
+}
+
+.image-info {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.image-info a {
+    font-size: 1rem;
+}
+
+.image-info p {
+    font-size: .8rem;
 }
 
 html.transition,
