@@ -5,6 +5,7 @@ html {
     --color-headings: #00ADB5;/*heading*/
     --color-text: #393e46;/*paragraph*/
     --blur-strength: 50px;
+    --nt-color-text: #d7d7d7;
 }
 
 html[ui-theme='dark'] {
@@ -22,7 +23,7 @@ html[ui-theme='special'] {
 }
 
 * {
-    color: var(--color-text);
+    color: var(--nt-color-text);
     font-family: "Poppins", sans-serif;
     box-sizing: border-box;
     padding: 0;
