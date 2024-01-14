@@ -94,6 +94,22 @@ body {
     display: none;
 }
 
+.clock {
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+}
+
+.clock h1 {
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
+
+.clock h2 {
+    display: none;
+}
+
 .image-info {
     position: fixed;
     bottom: 0;
