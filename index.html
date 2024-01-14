@@ -6,16 +6,25 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style/style.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+        <link rel='stylesheet' href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css'>
         <link rel="icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/72224389?v=4">
     </head>
     <body>
-        <div class="navbar">
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="/sites/projects.html">Projects</a></li>
-                <li><a href="/sites/about.html">About</a></li>
-            </ul>
-        </div>
+        <header class="header">
+            <a href="#" class="logo">
+                <img src="https://avatars.githubusercontent.com/u/72224389?v=4" alt="My Avatar" width="50" height="50">
+            </a>
+            <input type="checkbox" id="navbar-checkbox">
+            <label for="navbar-checkbox" class="icons">
+                <i class="bx bx-menu" id="open-nav"></i>
+                <i class="bx bx-x" id="close-nav"></i>
+            </label>
+            <nav class="navbar">
+                <a href="#">Home</a>
+                <a href="/sites/projects.html">Projects</a>
+                <a href="/sites/about.html">About</a>
+            </nav>
+        </header>
         <div class="main">
             <header class="title">Evolinox</header>
         </div>
