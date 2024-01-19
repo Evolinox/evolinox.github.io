@@ -6,7 +6,7 @@ html {
     --color-text: #393e46;/*paragraph*/
     --blur-strength: 50px;
     --nt-color-text: #d7d7d7;
-    --background-image-url: url("https://live.staticflickr.com/65535/53114203313_3bd8227432_b.jpg");
+    --background-image-url: url("https://live.staticflickr.com/65535/53114203313_c88be71cce_k.jpg");
 }
 
 html[ui-theme='dark'] {
@@ -97,7 +97,7 @@ body {
 
 .clock {
     position: absolute;
-    top: 20%;
+    top: 180px;
     width: 100%;
     text-align: center;
 }
@@ -120,7 +120,7 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin-top: 35%;
+    margin-top: 300px;
 }
 
 .project-card {
@@ -185,7 +185,7 @@ html.transition,
    transition-delay: 0 !important;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
     .icons {
         display: inline-flex;
     }
@@ -216,7 +216,7 @@ html.transition,
     }
 
     #navbar-checkbox:checked~.navbar {
-        height: 10rem;
+        height: 15rem;
     }
 
     .navbar a {
