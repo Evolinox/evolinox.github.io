@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  //base: '/evolinox.github.io/',
   title: "Evolinox",
   description: "My Website about me",
   themeConfig: {
