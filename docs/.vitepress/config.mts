@@ -8,21 +8,56 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Projects', link: '/projects/' },
+      { text: 'About', link: '/about/' }
     ],
+
+    logo: 'https://avatars.githubusercontent.com/u/72224389?v=4',
 
     sidebar: [
       {
-        text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Overview', link: '/projects/' },
+          {
+            text: 'Personal',
+            collapsed: false,
+            items: [
+              { text: 'SpookBot', link: '/projects/personal/spookbot'},
+              { text: 'Tic Tac Toe', link: '/projects/personal/tictactoe'}
+            ]
+          },
+          {
+            text: 'University',
+            collapsed: true,
+            items: [
+              { text: 'DHBW Programming 1', link: '/projects/university/dhbw_prog_1'}
+            ]
+          },
+          {
+            text: 'Modding',
+            collapsed: true,
+            items: [
+              { text: 'ATC-2 Safety System', link: '/projects/modding/atc2'},
+              { text: 'Vectron Camera Driver', link: '/projects/modding/vectron_camera'}
+            ]
+          }
         ]
+      },
+      {
+        text: 'About Me', link: '/about/'
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
+      { icon: 'github', link: 'https://github.com/Evolinox' },
+      { icon: 'youtube', link: 'https://www.youtube.com/channel/UCXXdteIrezyZ_PbtmHTGLgA' },
+      { icon: 'linkedin', link:'' }
+    ],
+
+    footer: {
+      copyright: 'Copyright © 2024, <a href="https://github.com/Evolinox">Evolinox</a>'
+    },
+  },
+
+  lastUpdated : true
 })
