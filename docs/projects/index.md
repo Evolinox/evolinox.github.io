@@ -10,7 +10,7 @@ I've split my projects into three categories:
 Projects, i'm doing in my freetime
 
 - [SpookBot](./personal/spookbot)
-- [Tic Tac Toe](./personal/spookbot)
+- [Tic Tac Toe](./personal/tictactoe)
 
 ## University
 
