@@ -8,8 +8,8 @@ const members = [
     title: 'Student',
     links: [
       { icon: 'github', link: 'https://github.com/Evolinox' },
-      { icon: 'discord', link: '' },
-      { icon: 'youtube', link: ''}
+      { icon: 'youtube', link: 'https://www.youtube.com/channel/UCXXdteIrezyZ_PbtmHTGLgA'},
+      { icon: 'instagram', link: 'https://www.instagram.com/pascal.jedi/' }
     ]
   }
 ]

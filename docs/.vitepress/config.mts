@@ -51,7 +51,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Evolinox' },
       { icon: 'youtube', link: 'https://www.youtube.com/channel/UCXXdteIrezyZ_PbtmHTGLgA' },
-      { icon: 'linkedin', link:'' }
+      { icon: 'instagram', link: 'https://www.instagram.com/pascal.jedi/' }
     ],
 
     footer: {

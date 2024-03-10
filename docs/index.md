@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Hej!"
-  tagline: "On this Page, you will find all Informations about Stuff i'm working on! Three Examples: "
+  tagline: "On this Page, you will find all Informations about Stuff i'm working on!"
   image:
     src: https://avatars.githubusercontent.com/u/72224389?v=4
     alt: Evolinox Avatar
