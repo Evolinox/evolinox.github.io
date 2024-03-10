@@ -15,7 +15,11 @@ const members = [
 ]
 </script>
 
-# About this Site
+# About me
+
+I'm a student from southern Germany currently studying applied computer science!
+
+## About this Site
 
 You might be wondering, why i chose Vitepress for my "personal" Website... Honestly, i don't know either... Vitepress is mainly designed for Documentations, but i kinda liked its look, so i tried to adopt it to my rather unique needs :D
 

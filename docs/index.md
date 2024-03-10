@@ -3,15 +3,11 @@
 layout: home
 
 hero:
-  name: "Evolinox"
-  text: ""
+  name: "Hej!"
+  tagline: "On this Page, you will find all Informations about Stuff i'm working on! Three Examples: "
   image:
     src: https://avatars.githubusercontent.com/u/72224389?v=4
     alt: Evolinox Avatar
-  actions:
-    - theme: brand
-      text: See all my Projects
-      link: /projects/
 
 features:
   - title: SpookBot

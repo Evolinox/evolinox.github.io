@@ -59,5 +59,18 @@ export default defineConfig({
     },
   },
 
+  head: [
+    [
+      'script',
+      {},
+      `
+      function resizeIframe(iframe) {
+        iframe.height = (iframe.width/16)*9 + "px";
+        console.log((iframe.width/16)*9 + "px")
+        window.requestAnimationFrame(() => resizeIframe(iframe));
+      }`
+    ]
+  ],
+
   lastUpdated : true
 })
