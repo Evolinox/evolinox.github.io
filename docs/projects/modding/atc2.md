@@ -6,7 +6,7 @@ ATC-2 is a System developed by Statens Järnväger in the 1970's to improve Rail
 
 - [Release](https://github.com/Evolinox/TSW_ATC2/releases)
 - [GitHub Repository](https://github.com/Evolinox/TSW_ATC2)
-- [Documentation](https://github.com/Evolinox/TSW_ATC2_Documentation)
+- [Documentation](https://evolinox.github.io/TSW_ATC2_Documentation)
 
 ## Preview
 
