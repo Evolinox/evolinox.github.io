@@ -3,6 +3,9 @@
 Discord Bot built with JDA 5 ([Java Discord API](https://github.com/DV8FromTheWorld/JDA "GitHub Page of JDA")), written in Java.  
 Basic Information will be in the small [Documentation](#links). For more specific questions or discussions, visit the [Forum](https://github.com/Evolinox/SpookBot/discussions) on the GitHub Repository.
 
+![image](https://github.com/Evolinox/evolinox.github.io/assets/72224389/7c01e746-c24a-4d50-b8f2-1575773ad247)
+
+
 ## Links
 
 - [Release](https://github.com/Evolinox/SpookBot/releases)
