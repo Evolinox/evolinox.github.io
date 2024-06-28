@@ -19,6 +19,6 @@ Basic Information will be in the small [Documentation](#links). For more specifi
 - Inspect Discord User Profiles  
 - Create a rules embed for new Members
 
-## Important Notes
+## Contributing
 
-The Java Program currently requires a GUI for an easy setup (Bot Token for example). In the future, i want to make the GUI optional, so that the Bot can be used on Headless Systems.
+You are free to open Pull Requests!

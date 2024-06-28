@@ -15,10 +15,10 @@ features:
     icon: 🤖
     details: a Discord Community Bot built with JDA (Java) for my own small Server.
     link: /projects/personal/spookbot
-  - title: TicTacToe Online
-    icon: 🖥️
-    details: a Website where i learned the basics of HTML/CSS and JavaScript.
-    link: /projects/personal/tictactoe
+  - title: Communities
+    icon: 👥
+    details: an open-source Social Network with Tauri + Vue 3
+    link: /projects/personal/communities
   - title: ATC-2 for TSW
     icon: 🚦
     details: a implementation of ATC-2 Safety System for TSW made in Unreal Engine.

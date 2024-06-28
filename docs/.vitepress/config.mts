@@ -23,6 +23,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: 'SpookBot', link: '/projects/personal/spookbot'},
+              { text: 'Communities', link: '/projects/personal/communities'},
               { text: 'Tic Tac Toe', link: '/projects/personal/tictactoe'}
             ]
           },
@@ -30,7 +31,8 @@ export default defineConfig({
             text: 'University',
             collapsed: true,
             items: [
-              { text: 'DHBW Programming 1', link: '/projects/university/dhbw_prog_1'}
+              { text: 'DHBW Programming 1', link: '/projects/university/dhbw_prog_1'},
+              { text: 'DHBW Programming 2', link: '/projects/university/dhbw_prog_2'}
             ]
           },
           {

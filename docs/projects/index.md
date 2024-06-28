@@ -10,6 +10,7 @@ I've split my projects into three categories:
 Projects, i'm doing in my freetime
 
 - [SpookBot](./personal/spookbot)
+- [Communities](./personal/communities)
 - [Tic Tac Toe](./personal/tictactoe)
 
 ## University
@@ -17,6 +18,7 @@ Projects, i'm doing in my freetime
 Projects i've worked on at the University
 
 - [Programming 1 Course](./university/dhbw_prog_1)
+- [Programming 2 Course](./university/dhbw_prog_2)
 
 ## Modding
 
