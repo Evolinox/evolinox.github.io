@@ -18,29 +18,15 @@ export default defineConfig({
       {
         items: [
           { text: 'Overview', link: '/projects/' },
-          {
-            text: 'Personal',
-            collapsed: false,
-            items: [
-              { text: 'SpookBot', link: '/projects/personal/spookbot'},
-              { text: 'Communities', link: '/projects/personal/communities'},
-              { text: 'Tic Tac Toe', link: '/projects/personal/tictactoe'}
-            ]
-          },
-          {
-            text: 'University',
-            collapsed: true,
-            items: [
-              { text: 'DHBW Programming 1', link: '/projects/university/dhbw_prog_1'},
-              { text: 'DHBW Programming 2', link: '/projects/university/dhbw_prog_2'}
-            ]
-          },
+          { text: 'SpookBot', link: '/projects/spookbot'},
+          { text: 'Tic Tac Toe', link: '/projects/tictactoe'},
+          { text: 'Digital', link: '/projects/digital'},
           {
             text: 'Modding',
             collapsed: true,
             items: [
-              { text: 'ATC-2 Safety System', link: '/projects/modding/atc2'},
-              { text: 'Vectron Camera Driver', link: '/projects/modding/vectron_camera'}
+              { text: 'BR 193 BOXX', link: '/projects/modding/vectron_boxx'},
+              { text: 'Zmigrod Testcenter Scenarios', link: '/projects/modding/zmigrodtc'}
             ]
           }
         ]

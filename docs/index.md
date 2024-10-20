@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Hej!"
-  tagline: "On this Page, you will find all Informations about Stuff i'm working on!"
+  tagline: "On this Page, you will find all Informations about my projects!"
   image:
     src: https://avatars.githubusercontent.com/u/72224389?v=4
     class: logo
@@ -13,15 +13,16 @@ hero:
 features:
   - title: SpookBot
     icon: 🤖
-    details: a Discord Community Bot built with JDA (Java) for my own small Server.
-    link: /projects/personal/spookbot
-  - title: Communities
-    icon: 👥
-    details: an open-source Social Network with Tauri + Vue 3
-    link: /projects/personal/communities
-  - title: ATC-2 for TSW
-    icon: 🚦
-    details: a implementation of ATC-2 Safety System for TSW made in Unreal Engine.
-    link: /projects/modding/atc2
+    details: a Discord Community Bot built with JDA (Java) for smaller Communities.
+    link: /projects/spookbot
+  - title: Tic Tac Toe
+    icon: 🕹️
+    details: a Online Game where i learned the basics of HTML/CSS and JavaScript.
+    link: /projects/tictactoe
+  - title: Digital 
+    icon: 
+      src: /assets/digital.png
+    details: a fork from hneemann/digital, that features some specific macOS Features.
+    link: /projects/digital
 ---
 

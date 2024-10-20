@@ -1,30 +1,31 @@
-# Project Overview
+# Overview
 
-I've split my projects into three categories:
-- [Personal](#personal)
-- [University](#university)
-- [Modding](#modding)
+This is an Overview Page, to get a quick glimpse about all Projects.
 
-## Personal
+## SpookBot
 
-Projects, i'm doing in my freetime
+SpookBot is a Discord Community Bot built with JDA (Java) for smaller Communities.
 
-- [SpookBot](./personal/spookbot)
-- [Communities](./personal/communities)
-- [Tic Tac Toe](./personal/tictactoe)
+See [this Page](./spookbot.md) for more Informations about SpookBot.
 
-## University
+## Tic Tac Toe
 
-Projects i've worked on at the University
+A Website for playing Tic Tac Toe Online, includes a local Multiplayer Mode and a Singleplayer Mode.
 
-- [Programming 1 Course](./university/dhbw_prog_1)
-- [Programming 2 Course](./university/dhbw_prog_2)
+See [this Page](./tictactoe.md) for more Informations.
+
+## Digital
+
+As the original [Digital](https://github.com/hneemann/Digital) doesn't feel very native to macOS and i need it on a weekly basis at University, i decided to create my own Fork of it and change it to be a bit more Native. This means using the macOS-Menubar, creating a .app-Bundle and a few smaller Things.
+
+See [this Page](./digital.md) for more Informations about my fork.
 
 ## Modding
 
-Technically, this is also personal, since i'm doing this in my freetime. I'm mostly modding in Unreal Engine Games.
-
 - Train Sim World
 
-    - [ATC-2 System](./modding/atc2)
-    - [BR 193 Cameras](./modding/vectron_camera)
+    - [BR 193 BOXX](./modding/vectron_boxx)
+
+- SimRail
+
+    - [Zmigrod Testcenter Scenarios](./modding/zmigrodtc)
