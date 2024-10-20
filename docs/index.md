@@ -20,8 +20,7 @@ features:
     details: a Online Game where i learned the basics of HTML/CSS and JavaScript.
     link: /projects/tictactoe
   - title: Digital 
-    icon: 
-      src: /assets/digital.png
+    icon: 🛠️
     details: a fork from hneemann/digital, that features some specific macOS Features.
     link: /projects/digital
 ---
