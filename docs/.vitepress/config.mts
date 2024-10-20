@@ -26,7 +26,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'BR 193 BOXX', link: '/projects/modding/vectron_boxx'},
-              { text: 'Zmigrod Testcenter Scenarios', link: '/projects/modding/zmigrodtc'}
+              { text: 'Zmigrod Scenarios', link: '/projects/modding/zmigrodtc'}
             ]
           }
         ]
