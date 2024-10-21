@@ -13,6 +13,7 @@ All three Vectrons also got some neat Upgrades, including...
 
 - Fully [functional Cameras](/projects/modding/vectron_camera.md) with a lot of help from `@Foob`
 - EBuLa Subpages also with help from `@Foob`
+- SCMT Screen (MS IT) created by `@Mabitze`
 - A few more Audiolines supplied by `@Betjoin`
 - A new Horn Sound supplied by `@Maggus`
 
