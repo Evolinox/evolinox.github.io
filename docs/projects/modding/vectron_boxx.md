@@ -5,16 +5,16 @@ This is a DLC for DTG's Train Sim World 5, which includes three new Vectron Loco
 - BOXX Vectron MS
 - BOXX Vectron MS (Italy)
 
-![image](/assets/vectron_boxx_ffmfl.png)
+![Vectron MS IT](/assets/vectron_boxx_ffmfl.png)
 
 ## Features
 
 All three Vectrons also got some neat Upgrades, including...
 
-- Fully functional Cameras with a lot of help from Foob
-- EBuLa Subpages also with help from Foob
-- A few more Audiolines supplied by Betjoin
-- A new Horn Sound supplied by Maggus
+- Fully [functional Cameras](/projects/modding/vectron_camera.md) with a lot of help from `@Foob`
+- EBuLa Subpages also with help from `@Foob`
+- A few more Audiolines supplied by `@Betjoin`
+- A new Horn Sound supplied by `@Maggus`
 
 ## Preview
 
@@ -24,9 +24,14 @@ All three Vectrons also got some neat Upgrades, including...
 
 ## Requirements
 
-- Railpool Vectron
-- Flixtrain Vectron
-- Railwayline Frankfurt - Fulda
+Required vehicles:
+- [Railpool BR 193 Vectron](https://store.steampowered.com/app/2970390/Train_Sim_World_5_Railpool_BR_193_Vectron_Loco_AddOn/)
+- [Flixtrain BR 193 Vectron](https://store.steampowered.com/app/2970830/Train_Sim_World_5_FlixTrain_BR_193_Vectron_Loco_AddOn/)
+
+Required routes:
+- [Kinzigtalbahn](https://store.steampowered.com/app/2970810/Train_Sim_World_5_Frankfurt__Fulda_Kinzigtalbahn_Route_AddOn/)
+
+(Links will redirect you to their Steampage)
 
 ## Download
 
