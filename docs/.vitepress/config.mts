@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Evolinox",
   description: "My Website about me",
+  lang: 'en-US',
   themeConfig: {
     search: {
       provider: 'local'
@@ -51,6 +52,13 @@ export default defineConfig({
   },
 
   head: [
+    [
+      'link',
+      { 
+        rel: 'icon',
+        href: '/assets/favicon.png'
+      }
+    ],
     [
       'script',
       {},
