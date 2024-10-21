@@ -21,17 +21,24 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: 'Overview', link: '/projects/' },
-          { text: 'SpookBot', link: '/projects/spookbot'},
-          { text: 'Tic Tac Toe', link: '/projects/tictactoe'},
-          { text: 'Digital', link: '/projects/digital'},
-          {
-            text: 'Modding',
-            collapsed: true,
+          { text: 'Projects',
+            link: '/projects/',
+            collapsed: false,
             items: [
-              { text: 'BR 193 BOXX', link: '/projects/modding/vectron_boxx'},
-              { text: 'BR 193 Camera', link: '/projects/modding/vectron_camera'},
-              { text: 'Zmigrod Scenarios', link: '/projects/modding/zmigrodtc'}
+              { text: 'SpookBot', link: '/projects/spookbot'},
+              { text: 'Tic Tac Toe', link: '/projects/tictactoe'},
+              { text: 'Digital', link: '/projects/digital'},
+              {
+                text: 'Modding',
+                collapsed: true,
+                items: [
+                  { text: 'BR 193 BOXX', link: '/projects/modding/vectron_boxx'},
+                  //{ text: 'BR 193 Scandinavia', link: '/projects/modding/vectron_scandinavia'},
+                  { text: 'BR 193 Camera', link: '/projects/modding/vectron_camera'},
+                  //{ text: 'ATC-2 System', link: '/projects/modding/atc2'},
+                  { text: 'Zmigrod Scenarios', link: '/projects/modding/zmigrodtc'}
+                ]
+              }
             ]
           }
         ]

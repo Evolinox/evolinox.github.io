@@ -25,6 +25,7 @@ See [this Page](./digital.md) for more Informations about my fork.
 - Train Sim World
 
     - [BR 193 BOXX](./modding/vectron_boxx)
+    - [BR 193 Cameras](./modding/vectron_camera)
 
 - SimRail
 
