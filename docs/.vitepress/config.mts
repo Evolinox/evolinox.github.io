@@ -30,6 +30,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'BR 193 BOXX', link: '/projects/modding/vectron_boxx'},
+              { text: 'BR 193 Camera', link: '/projects/modding/vectron_camera'},
               { text: 'Zmigrod Scenarios', link: '/projects/modding/zmigrodtc'}
             ]
           }
