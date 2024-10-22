@@ -12,8 +12,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Projects', link: '/projects/' },
-      { text: 'About', link: '/about/' }
+      { text: 'Projects', link: '/projects/', activeMatch: '/projects/' },
+      { text: 'About', link: '/about/', activeMatch: '/about/' }
     ],
 
     logo: 'https://avatars.githubusercontent.com/u/72224389?v=4',
