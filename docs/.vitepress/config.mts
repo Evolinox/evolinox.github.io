@@ -26,8 +26,20 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: 'SpookBot', link: '/projects/spookbot'},
-              { text: 'Tic Tac Toe', link: '/projects/tictactoe'},
+              { text: 'Bar Counter', link: '/projects/barcounter'},
               { text: 'Digital', link: '/projects/digital'},
+              { text: 'Tic Tac Toe', link: '/projects/tictactoe'},
+              /*
+              {
+                text: 'Digital Train Comm',
+                link: '/projects/dtc/',
+                collapsed: true,
+                items: [
+                  { text: 'Server', link: '/projects/dtc/server'},
+                  { text: 'Controller', link: '/projects/dtc/controller'},
+                ]
+              },
+              */
               {
                 text: 'Modding',
                 collapsed: true,

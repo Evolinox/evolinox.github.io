@@ -15,10 +15,10 @@ features:
     icon: 🤖
     details: a Discord Community Bot built with JDA (Java) for smaller Communities.
     link: /projects/spookbot
-  - title: Tic Tac Toe
-    icon: 🕹️
-    details: a Online Game where i learned the basics of HTML/CSS and JavaScript.
-    link: /projects/tictactoe
+  - title: Bar Counter
+    icon: 🧾
+    details: A self-service bar management app.
+    link: /projects/barcounter
   - title: Digital 
     icon: 🛠️
     details: a fork from hneemann/digital, that features some specific macOS Features.
