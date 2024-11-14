@@ -8,11 +8,11 @@ SpookBot is a Discord Community Bot built with JDA (Java) for smaller Communitie
 
 See [this Page](./spookbot.md) for more Informations about SpookBot.
 
-## Tic Tac Toe
+## Bar Counter
 
-A Website for playing Tic Tac Toe Online, includes a local Multiplayer Mode and a Singleplayer Mode.
+BarCounter is a self-service bar management app that tracks drink consumption, making it easy for patrons to manage and settle their tabs independently. Ideal for self-service bars, BarCounter records each drink taken by users, allowing staff and customers to see real-time beverage counts and total consumption. With BarCounter, venues can offer a streamlined, hassle-free experience for both guests and bar staff, ensuring accurate drink tracking and efficient payments.
 
-See [this Page](./tictactoe.md) for more Informations.
+See [this Page](./barcounter.md) for more Informations about this app.
 
 ## Digital
 
@@ -20,11 +20,11 @@ As the original [Digital](https://github.com/hneemann/Digital) doesn't feel very
 
 See [this Page](./digital.md) for more Informations about my fork.
 
-## Bar Counter
+## Tic Tac Toe
 
-BarCounter is a self-service bar management app that tracks drink consumption, making it easy for patrons to manage and settle their tabs independently. Ideal for self-service bars, BarCounter records each drink taken by users, allowing staff and customers to see real-time beverage counts and total consumption. With BarCounter, venues can offer a streamlined, hassle-free experience for both guests and bar staff, ensuring accurate drink tracking and efficient payments.
+A Website for playing Tic Tac Toe Online, includes a local Multiplayer Mode and a Singleplayer Mode.
 
-See [this Page](./barcounter.md) for more Informations about this app.
+See [this Page](./tictactoe.md) for more Informations.
 
 ## Modding
 
