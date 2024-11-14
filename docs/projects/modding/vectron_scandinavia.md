@@ -1,7 +1,9 @@
 # BR 193 Scandinavia
 
-This is a DLC for DTG's Train Sim World 5, which includes a new Vectron Locomotive:
+This is a Mod for DTG's Train Sim World 5, which includes a new Vectron Locomotive:
 - Snälltåget Vectron AC (ELP)
+
+![Vectron AC](/assets/vectron_snalltaget_ac.png)
 
 ## Features
 
