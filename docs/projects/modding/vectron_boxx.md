@@ -1,6 +1,6 @@
 # BR 193 BOXX
 
-This is a DLC for DTG's Train Sim World 5, which includes three new Vectron Locomotives:
+This is a Mod for DTG's Train Sim World 5, which includes three new Vectron Locomotives:
 - BOXX Vectron AC
 - BOXX Vectron MS
 - BOXX Vectron MS (Italy)
