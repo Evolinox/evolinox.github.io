@@ -4,6 +4,13 @@ BarCounter is a self-service bar management app that tracks drink consumption, m
 
 ![macOS App](/assets/barcounter.png)
 
+## Features
+- Created with Vue.js and Tauri.
+- Real-time tracking of drink selections and consumption.
+- User-friendly interface for selecting a new drink.
+
+![macOS App](/assets/barcounter_home.png)
+
 ## Links
 
 - [GitHub Repository](https://github.com/Evolinox/BarCounter)
