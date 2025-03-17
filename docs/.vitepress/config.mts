@@ -26,7 +26,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: 'SpookBot', link: '/projects/spookbot'},
-              { text: 'Bar Counter', link: '/projects/barcounter'},
+              { text: 'Railtrack', link: '/projects/railtrack'},
               { text: 'Digital', link: '/projects/digital'},
               { text: 'Tic Tac Toe', link: '/projects/tictactoe'},
               /*

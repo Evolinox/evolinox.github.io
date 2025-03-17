@@ -15,10 +15,10 @@ features:
     icon: 🤖
     details: a Discord Community Bot built with JDA (Java) for smaller Communities.
     link: /projects/spookbot
-  - title: Bar Counter
-    icon: 🧾
-    details: A self-service bar management app.
-    link: /projects/barcounter
+  - title: Railtrack
+    icon: 🚉
+    details: A Tracker for Railvehicles built with Tauri v2 and Vue.js.
+    link: /projects/railtrack
   - title: Digital 
     icon: 🛠️
     details: a fork from hneemann/digital, that features some specific macOS Features.
