@@ -68,7 +68,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: 'Copyright © 2024, <a href="https://github.com/Evolinox">Evolinox</a>'
+      copyright: 'Copyright © 2025, <a href="https://github.com/Evolinox">Evolinox</a>'
     },
   },
 
