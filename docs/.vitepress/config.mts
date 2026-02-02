@@ -25,6 +25,7 @@ export default defineConfig({
             link: '/projects/',
             collapsed: false,
             items: [
+              { text: 'Signalbox', link: '/projects/signalbox'},
               { text: 'Railtrack', link: '/projects/railtrack'},
               { text: 'ZDE', link: '/projects/zde'},
               { text: 'SpookBot', link: '/projects/spookbot'},
@@ -45,9 +46,9 @@ export default defineConfig({
                 items: [
                   { text: 'BR 193 BOXX', link: '/projects/modding/vectron_boxx'},
                   //{ text: 'BR 193 Scandinavia', link: '/projects/modding/vectron_scandinavia'},
-                  { text: 'BR 193 Camera', link: '/projects/modding/vectron_camera'},
+                  { text: 'BR 193 Camera', link: '/projects/modding/vectron_camera'}
                   //{ text: 'ATC-2 System', link: '/projects/modding/atc2'},
-                  { text: 'Zmigrod Scenarios', link: '/projects/modding/zmigrodtc'}
+                  //{ text: 'Zmigrod Scenarios', link: '/projects/modding/zmigrodtc'}
                 ]
               }
             ]
@@ -66,7 +67,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: 'Copyright © 2025, <a href="https://github.com/Evolinox">Evolinox</a>'
+      copyright: 'Copyright © 2026, <a href="https://github.com/Evolinox">Evolinox</a>'
     },
   },
 

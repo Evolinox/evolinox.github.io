@@ -11,6 +11,10 @@ hero:
     alt: Evolinox Avatar
 
 features:
+  - title: Signalbox
+    icon: 🖥️
+    details: A Web-based Signalbox for your Modellayout.
+    link: /projects/signalbox
   - title: Railtrack
     icon: 🚉
     details: A Tracker for Railvehicles built with Tauri v2 and Vue.js.
@@ -21,7 +25,7 @@ features:
     link: /projects/zde
   - title: SpookBot
     icon: 🤖
-    details: A Discord Community Bot built with JDA (Java) for smaller Communities.
+    details: A Discord Community Bot built with JDA.
     link: /projects/spookbot
 ---
 
