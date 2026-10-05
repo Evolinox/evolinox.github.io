@@ -25,32 +25,8 @@ export default defineConfig({
             link: '/projects/',
             collapsed: false,
             items: [
-              { text: 'Signalbox', link: '/projects/signalbox'},
               { text: 'Railtrack', link: '/projects/railtrack'},
-              { text: 'ZDE', link: '/projects/zde'},
-              { text: 'SpookBot', link: '/projects/spookbot'},
-              /*
-              {
-                text: 'Digital Train Comm',
-                link: '/projects/dtc/',
-                collapsed: true,
-                items: [
-                  { text: 'Server', link: '/projects/dtc/server'},
-                  { text: 'Controller', link: '/projects/dtc/controller'},
-                ]
-              },
-              */
-              {
-                text: 'Modding',
-                collapsed: true,
-                items: [
-                  { text: 'BR 193 BOXX', link: '/projects/modding/vectron_boxx'},
-                  //{ text: 'BR 193 Scandinavia', link: '/projects/modding/vectron_scandinavia'},
-                  { text: 'BR 193 Camera', link: '/projects/modding/vectron_camera'}
-                  //{ text: 'ATC-2 System', link: '/projects/modding/atc2'},
-                  //{ text: 'Zmigrod Scenarios', link: '/projects/modding/zmigrodtc'}
-                ]
-              }
+              { text: 'ZDE', link: '/projects/zde'}
             ]
           }
         ]
@@ -63,7 +39,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Evolinox' },
       { icon: 'youtube', link: 'https://www.youtube.com/@Evolinox' },
-      { icon: 'instagram', link: 'https://www.instagram.com/pascal.jedi/' }
+      { icon: 'instagram', link: 'https://www.instagram.com/pascal.72e' }
     ],
 
     footer: {
@@ -76,6 +52,23 @@ export default defineConfig({
       'link',
       { 
         rel: 'icon',
+        href: '/assets/favicon.png'
+      }
+    ],
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: '/assets/favicon.png'
+      }
+    ],
+    [
+      'link',
+      {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
         href: '/assets/favicon.png'
       }
     ],

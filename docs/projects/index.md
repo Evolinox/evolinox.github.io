@@ -2,12 +2,6 @@
 
 This is an Overview Page, to get a quick glimpse about all Projects.
 
-## Signalbox
-
-**Signalbox** is a modern web-based solution for controlling your modellayout with DCC
-
-See [this Page](./signalbox.md) for more Informations about Signalbox.
-
 ## Railtrack
 
 Tracking Trains made easy: Railtrack is a simple App, which implements [OpenRailwayMap](https://www.openrailwaymap.org) and certain APIs to fetch live locations of Railvehicles.
@@ -20,14 +14,3 @@ See [this Page](./railtrack.md) for more Informations about Railtrack.
 **ZugDatenEinsteller** is a lightweight desktop tool for calculating train data — such as braking percentage (Bremshundertstel), train length, top speed, and brake mode — for expert locomotives in **Train Sim World (TSW)**. It's built for players who enjoy a more realistic driving experience.
 
 See [this Page](./zde.md) for more Informations about ZDE.
-
-## SpookBot
-
-SpookBot is a Discord Community Bot built with JDA (Java) for smaller Communities.
-
-See [this Page](./spookbot.md) for more Informations about SpookBot.
-
-## Modding
-
-- [BR 193 BOXX](./modding/vectron_boxx)
-- [BR 193 Cameras](./modding/vectron_camera)
